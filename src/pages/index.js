@@ -1,1 +1,1 @@
-console.log("tailwind-ecom");
+console.log("snipcart-ecom");
