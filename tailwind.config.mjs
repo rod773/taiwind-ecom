@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        jim: "DM Serif Text",
+        serif: "DM Serif Text",
+        sans: "",
       },
     },
   },
