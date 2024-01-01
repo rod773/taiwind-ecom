@@ -8,7 +8,7 @@ export default {
         sans: "",
       },
       backgroundImage: {
-        imgmain: "url('./assets/3.1 bg.jpg')",
+        imgmain: "url('./public/3.1 bg.jpg')",
       },
     },
   },
