@@ -7,9 +7,6 @@ export default {
         serif: "DM Serif Text",
         sans: "",
       },
-      backgroundImage: {
-        imgmain: "url('./public/3.1 bg.jpg')",
-      },
     },
   },
   plugins: [],

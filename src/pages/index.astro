@@ -1,5 +1,5 @@
 ---
-import imgmain from "../../public/3.1 bg.jpg";
+
 ---
 
 <html lang="en">
@@ -22,9 +22,12 @@ import imgmain from "../../public/3.1 bg.jpg";
     </nav>
     <main>
       <header
-        class="bg-imgmain flex bg-cover bg-center h-[calc(100vh-72px)] min-h-[400px]"
+        class="flex bg-cover bg-center h-[calc(100vh-72px)] min-h-[400px]"
+        style="background-image: url('../public/images/3.1 bg.jpg');"
       >
-        <div class="m-auto font-semibold text-center">
+        <div class="m-auto
+        font-semibold
+        text-center">
           <h1 class="text-3xl mb-8">
             <span class="italic">Man</span>Bags
           </h1>
@@ -34,7 +37,10 @@ import imgmain from "../../public/3.1 bg.jpg";
             Clean &amp; Modern.
           </h1>
           <p class="text-lg mb-8 drop-shadow-lg">Luxury Bags for Men</p>
-          <button class="bg-black text-white">Browse The Collection</button>
+          <button
+            class="bg-black text-white uppercase px-6 py-4 cursor-pointer font-bold hover:bg-zinc-700 rounded-md transition"
+            >Browse The Collection</button
+          >
         </div>
       </header>
     </main>
