@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "astro-snipcart",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
