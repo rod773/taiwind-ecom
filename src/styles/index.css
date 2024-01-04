@@ -1,16 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
 @import url(https://fonts.googleapis.com/css?family=DM+Serif+Text:regular,italic);
 
-@layer base {
-  html {
-    font-family: "DM Sans", sans-serif;
-  }
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: "DM Serif Text", serif;
-  }
+html {
+  font-family: "DM Sans", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "DM Serif Text", serif;
+}
+
+body {
+  background-color: aquamarine;
 }
