@@ -1,5 +1,3 @@
-import "../styles/index.css";
-
 const btn = document.querySelector("#btn-browse-collection");
 
 const product1 = document.getElementById("product-1");
